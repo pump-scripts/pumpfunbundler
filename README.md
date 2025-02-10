@@ -2,7 +2,7 @@
 
 Join the telegram for full access: [Telegram](https://t.me/pumpscripts)
 
-_PUMPFUN COMMENT BOT - https://github.com/pump-scripts/pumpfuncommentbot_
+_PUMPFUN COMMENT BOT - https://github.com/pump-scripts/pumpfuncommentbot_ <br>
 _PUMPFUN VOLUME BOT - https://github.com/pump-scripts/pumpfunvolumebot_
 
 Welcome to the **PumpFun Bundler for the Pump.Fun!** This powerful tool streamlines your token operations with a variety of features, enabling efficient and seamless transactions. Here's a quick guide to all the amazing features:
